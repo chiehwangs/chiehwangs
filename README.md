@@ -7,10 +7,10 @@ This is chiehwangs
 <p align=left> <img src=https://komarev.com/ghpvc/?username=chiehwangs alt=chiehwangs /> </p>
 
 <a href="https://github.com/chiehwangs">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chiehwangs&show_icons=true&include_all_commits=true&cache_seconds=1800" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chiehwangs&show_icons=true&include_all_commits=true&cache_seconds=3600" />
 </a>
 <a href="https://github.com/chiehwangs">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiehwangs&layout=compact&cache_seconds=1800" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiehwangs&layout=compact&cache_seconds=3600" />
 </a>
 
 Languages and Tools:
