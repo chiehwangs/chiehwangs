@@ -25,7 +25,6 @@ Languages and Tools:
 -->
 Some info about me:
 - 🔭 I’m currently a master student at Nanjing University of Posts and Telecommunications
-- 🌱 I‘m currently interning at Intel Edge Computing Research Institute (inchi)
 - 😄 My main research interests are 3D computer vision, digital human
 <!--
 - 🤔 I’m looking for a PhD or a RA position
