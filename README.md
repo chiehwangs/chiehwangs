@@ -19,14 +19,6 @@ I work on high-fidelity digital humans, 3D Gaussian Splatting, neural rendering,
 - Neural rendering for controllable, animatable human models
 - Geometry, appearance, and motion modeling for 3D vision systems
 
-## Selected Work
-
-| Project | Description | Links |
-| --- | --- | --- |
-| **GaussianHead** | Official repository for the TVCG 2025 paper *GaussianHead: High-fidelity Head Avatars with Learnable Gaussian Derivation*. | [Code](https://github.com/chiehwangs/gaussian-head) |
-| **3D Gaussian Theory** | Notes and explanations for understanding the theory behind 3D Gaussian Splatting. | [Repo](https://github.com/chiehwangs/3d-gaussian-theory) |
-| **GaussianHead Page** | Project page source for GaussianHead. | [Repo](https://github.com/chiehwangs/gaussian-head-page) |
-
 ## Tech Stack
 
 <p>
