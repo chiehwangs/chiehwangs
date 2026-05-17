@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm chiehwangs</h1>
+<h1 align="center">Hi, I'm merrick jett</h1>
 
 <p align="center">
   <strong>3D Computer Vision · Digital Humans · Gaussian Avatars</strong>
